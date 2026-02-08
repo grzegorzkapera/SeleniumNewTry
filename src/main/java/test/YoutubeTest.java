@@ -1,4 +1,4 @@
-package youtube;
+package test;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.By;
@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.List;
 
-public class YoutubeTest{
+public class YoutubeTest {
 
     WebDriver driver;
 
